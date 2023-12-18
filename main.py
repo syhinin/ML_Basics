@@ -17,7 +17,7 @@ newest_home_age = 2023 - home_data['YearBuilt'].max()
 ## Will describe your model with min,avg,max parameters
 # print(home_data.describe())
 
-## Will print head(first ~7 rows) of your model 
+## Will print head(first ~5 rows) of your model 
 # print(home_data.head())
 
 # print(home_data)
